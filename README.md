@@ -16,5 +16,18 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+🎓 Estudante de Analise e desenvolvimeto de sistemas | Explorando o mundo da programação!
+
+💻 Focado em aprender GitHub, HTML, CSS e JavaScript.
+
+📚 Apaixonado por tecnologia
+
+🌱 Atualmente estudando [Curso tecnico Sesi Senai de analise e desenvolvimento de sistemas].
+
+👨‍💻 Desenvolvedor iniciante apaixonado por tecnologia.
+
+🚀 Explorando projetos em JavaScript.
+🌱 Sempre aprendendo algo novo!
+
 Programadores e artistas são os unicos profissionais que tem como hobby a propria profissão. <br/>
 -Rafael Lain
