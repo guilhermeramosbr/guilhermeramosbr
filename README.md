@@ -6,6 +6,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos-b5aa302b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B1Xm2Uvm2TAawGer73s0CVw%3D%3D)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeramosbr&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeramosbr&layout=compact)
 
 
 ## Tecnologias que eu uso no meu dia
