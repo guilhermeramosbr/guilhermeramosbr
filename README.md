@@ -3,7 +3,7 @@
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991649014)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guizinho.ramos)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramos-b5aa302b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B1Xm2Uvm2TAawGer73s0CVw%3D%3D)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bittencourt-ramoslipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B1Xm2Uvm2TAawGer73s0CVw%3D%3D)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeramosbr&show_icons=true&theme=dracula)
 
